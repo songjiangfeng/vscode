@@ -20,24 +20,24 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 ## Extensions Used
 
 #####   Equinusocio.vsc-material-theme 
-#####   PKief.material-icon-theme <br/>
-#####   akamud.vscode-theme-onedark <br/>
-#####   alefragnani.project-manager <br/>
-#####   bmewburn.vscode-intelephense-client <br/>
-#####   calebporzio.better-phpunit <br/>
-#####   dbaeumer.vscode-eslint <br/>
-#####   eamodio.gitlens <br/>
-#####   felixfbecker.php-debug <br/>
-#####   formulahendry.auto-close-tag <br/>
-#####   ikappas.composer <br/>
-#####   ikappas.phpcs <br/> 
-#####   junstyle.php-cs-fixer <br/> 
-#####   lukehoban.Go <br/>
-#####   nikitaKunevich.snippet-creator <br/>
-#####   octref.vetur <br/>
-#####   patbenatar.advanced-new-file <br/>
-#####   ryannaddy.laravel-artisan <br/>
-#####   sldobri.daily <br/>
-#####   sleistner.vscode-fileutils <br/>
-#####   vscodevim.vim <br/> 
-#####   wix.vscode-import-cost <br/> 
+#####   PKief.material-icon-theme 
+#####   akamud.vscode-theme-onedark 
+#####   alefragnani.project-manager 
+#####   bmewburn.vscode-intelephense-client
+#####   calebporzio.better-phpunit 
+#####   dbaeumer.vscode-eslint 
+#####   eamodio.gitlens 
+#####   felixfbecker.php-debug 
+#####   formulahendry.auto-close-tag 
+#####   ikappas.composer 
+#####   ikappas.phpcs 
+#####   junstyle.php-cs-fixer
+#####   lukehoban.Go 
+#####   nikitaKunevich.snippet-creator 
+#####   octref.vetur 
+#####   patbenatar.advanced-new-file 
+#####   ryannaddy.laravel-artisan 
+#####   sldobri.daily 
+#####   sleistner.vscode-fileutils 
+#####   vscodevim.vim 
+#####   wix.vscode-import-cost  
