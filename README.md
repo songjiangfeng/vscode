@@ -1,6 +1,16 @@
 # vscode
 A list of extensions used for  my VS Code
+
+## Before installation 
+
+Launch VS Code.
+ 
+Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+
+
 ## How to install
+
+
 
 #### via curl
 
