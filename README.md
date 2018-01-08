@@ -32,7 +32,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 
 
 
-<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-mater" >Material Theme</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme" >Material Theme</a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a>
 
