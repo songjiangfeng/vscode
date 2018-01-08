@@ -27,27 +27,51 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
  ```
 
 
-## Extensions Used
+## Best Extensions Used
 
-#####   Equinusocio.vsc-material-theme 
-#####   PKief.material-icon-theme 
-#####   akamud.vscode-theme-onedark 
-#####   alefragnani.project-manager 
-#####   bmewburn.vscode-intelephense-client
-#####   calebporzio.better-phpunit 
-#####   dbaeumer.vscode-eslint 
-#####   eamodio.gitlens 
-#####   felixfbecker.php-debug 
-#####   formulahendry.auto-close-tag 
-#####   ikappas.composer 
-#####   ikappas.phpcs 
-#####   junstyle.php-cs-fixer
-#####   lukehoban.Go 
-#####   nikitaKunevich.snippet-creator 
-#####   octref.vetur 
-#####   patbenatar.advanced-new-file 
-#####   ryannaddy.laravel-artisan 
-#####   sldobri.daily 
-#####   sleistner.vscode-fileutils 
-#####   vscodevim.vim 
-#####   wix.vscode-import-cost  
+
+
+
+<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-mater" >Material Theme</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark">Atom One Dark Theme</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager">Project Manager</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client">PHP Intelephense</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=calebporzio.better-phpunit">Better PHPUnit</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint">ESLint</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">Git Lens</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug">PHP Debug</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Auto Close Tag</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=ikappas.composer">Composer</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs">phpcs</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer">php cs fixer</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=lukehoban.Go">Go</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=nikitaKunevich.snippet-creator">snippet-creator</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur">Vetur</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file">advanced-new-file</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=ryannaddy.laravel-artisan">Laravel Artisan</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=sldobri.daily">Fantastic</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils">File Utils</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">Vim</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost">Import Cost</a>
