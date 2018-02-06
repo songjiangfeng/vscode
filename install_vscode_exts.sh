@@ -10,14 +10,20 @@
 
 cd ${HOME}/.vscode/extensions
 vscode_ets=(
+  DavidAnson.vscode-markdownlint
   Equinusocio.vsc-material-theme
+  HookyQR.beautify
   PKief.material-icon-theme
   akamud.vscode-theme-onedark
   alefragnani.project-manager
   bmewburn.vscode-intelephense-client
   calebporzio.better-phpunit
+  daylerees.rainglow
+  dbaeumer.jshint
   dbaeumer.vscode-eslint
+  donjayamanne.githistory
   eamodio.gitlens
+  felipecaputo.git-project-manager
   felixfbecker.php-debug
   formulahendry.auto-close-tag
   ikappas.composer
