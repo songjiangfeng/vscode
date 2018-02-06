@@ -1,4 +1,4 @@
-# vscode
+# Vscode
 A list of extensions used for  my VS Code
 
 ## Before installation 
@@ -7,21 +7,14 @@ Launch VS Code.
  
 Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
 
-
-## Add VS code into your .zshrc file
-
+## Vscode CLI
 ```
-function code {
-    if [[ $# = 0 ]]
-    then
-        open -a "Visual Studio Code"
-    else
-        local argPath="$1"
-        [[ $1 = /* ]] && argPath="$1" || argPath="$PWD/${1#./}"
-        open -a "Visual Studio Code" "$argPath"
-    fi
-}
+code --list-extensions
+code --install-extension ms-vscode.cpptools
+code --uninstall-extension ms-vscode.csharp
+code --disable-extensions
 ```
+
 
 ## How to install
 
@@ -90,3 +83,22 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">Vim</a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost">Import Cost</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">markdownlint</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify">Beautify</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=daylerees.rainglow">Rainglow</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint">jshint</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager">Import Cost</a>
+
+
+<a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint">Import Cost</a>
+
+
+
+
