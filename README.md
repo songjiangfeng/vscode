@@ -94,10 +94,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 
 <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager">Import Cost</a>
-
-
-<a href="https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint">Import Cost</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager">Git Project Manager</a>
 
 
 
