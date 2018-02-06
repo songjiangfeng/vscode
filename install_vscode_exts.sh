@@ -2,6 +2,11 @@
 # Windows %USERPROFILE%\.vscode\extensions
 # Mac ~/.vscode/extensions
 # Linux ~/.vscode/extensions
+#code --list-extensions
+#code --install-extension ms-vscode.cpptools
+#code --uninstall-extension ms-vscode.csharp
+#code --disable-extensions
+
 
 cd ${HOME}/.vscode/extensions
 vscode_ets=(
