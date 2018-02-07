@@ -1,5 +1,3 @@
-<image width=220 height=300 src="http://phpman.cc/wp-content/uploads/2018/02/IMG_3433-758x1024.jpg" />
-
 # Recommend the best editor I used ever, give up VIM
 
 # Vscode
@@ -37,6 +35,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
  ```
  sh -c "$(wget https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh -O -)"
  ```
+
+### 打赏
+<image width=220 height=300 src="http://phpman.cc/wp-content/uploads/2018/02/IMG_3433-758x1024.jpg" />
 
 
 ## Best Extensions Used
