@@ -1,46 +1,8 @@
-# Make you editor as an IDE with the following list of VSCode extensions
-
-## Before installation 
-
-Launch VS Code.
- 
-Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
-
-## Vscode CLI
-```
-code --list-extensions
-code --install-extension ms-vscode.cpptools
-code --uninstall-extension ms-vscode.csharp
-code --disable-extensions
-```
-
-
-## How to install
-
-
-
-#### via curl
-
-```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh)"
-```
-
-
-#### via wget
-
-
- ```
- sh -c "$(wget https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh -O -)"
- ```
-
-### 打赏
+## 打赏
 <image width=220 height=300 src="https://www.phpman.cc/wp-content/uploads/2019/06/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190620172655-300x300.jpg" />
 
 
-## Best Extensions Used
-
-
-
+## Make you editor as an IDE with the following list of VSCode extensions
 
 <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme" >Material Theme</a>
 
@@ -97,6 +59,48 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 <a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager">Git Project Manager</a>
+
+
+
+
+
+
+
+## Before installation 
+
+Launch VS Code.
+ 
+Open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command.
+
+## Vscode CLI
+```
+code --list-extensions
+code --install-extension ms-vscode.cpptools
+code --uninstall-extension ms-vscode.csharp
+code --disable-extensions
+```
+
+
+## How to install
+
+
+
+#### via curl
+
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh)"
+```
+
+
+#### via wget
+
+
+ ```
+ sh -c "$(wget https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh -O -)"
+ ```
+
+
+
 
 
 
