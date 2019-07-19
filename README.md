@@ -1,7 +1,4 @@
-# Recommend the best editor I used ever, give up VIM
-
-# Vscode
-A list of extensions used for  my VS Code
+# Make you editor as an IDE with the following list of VSCode extensions
 
 ## Before installation 
 
