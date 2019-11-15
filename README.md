@@ -83,7 +83,7 @@ code --disable-extensions
 
 ## How to install
 
-
+### 类Unix
 
 #### via curl
 
@@ -97,10 +97,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 
  ```
  sh -c "$(wget https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh -O -)"
+ 
  ```
 
-
-
+### Windows
+download the bat file and run it on your pc
+```
+https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.bat
+```
 
 
 
