@@ -60,6 +60,7 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager">Git Project Manager</a>
 
+<a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh">Remote - SSH</a>
 
 
 
