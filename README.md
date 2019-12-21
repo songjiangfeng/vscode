@@ -88,7 +88,7 @@ code --disable-extensions
 #### via curl
 
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh)"
 ```
 
 
@@ -96,7 +96,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/maste
 
 
  ```
- sh -c "$(wget https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh -O -)"
+ bash -c "$(wget https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.sh -O -)"
  
  ```
 
