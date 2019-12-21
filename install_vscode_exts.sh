@@ -38,6 +38,7 @@ vscode_ets=(
   sleistner.vscode-fileutils
   vscodevim.vim
   wix.vscode-import-cost
+  ms-vscode-remote.remote-ssh
 )
 
 for et_name in ${vscode_ets[@]};  
