@@ -1,5 +1,5 @@
 ## 打赏
-<image src="https://www.phpman.cc/wp-content/uploads/2019/06/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190620172655-300x300.jpg" />
+<image src="https://www.phpman.cc/assets/donate.jpg" />
 
 
 ## Make you editor as an IDE with the following list of VSCode extensions
