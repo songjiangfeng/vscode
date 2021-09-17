@@ -1,5 +1,4 @@
-## 打赏
-<image src="https://www.phpman.cc/assets/donate.jpg" />
+
 
 
 ## Make you editor as an IDE with the following list of VSCode extensions
@@ -108,5 +107,6 @@ https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_ext
 ```
 
 
-
+## 打赏
+<image src="https://www.phpman.cc/assets/donate.jpg" />
 
