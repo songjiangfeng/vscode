@@ -107,6 +107,5 @@ https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_ext
 ```
 
 
-## 打赏
-<image src="https://www.phpman.cc/assets/donate.jpg" />
+
 
