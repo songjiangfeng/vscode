@@ -103,7 +103,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/songjiangfeng/vscode/mas
 ### Windows
 download the bat file and run it on your pc
 ```
-https://raw.githubusercontent.com/songjiangfeng/vscode/master/install_vscode_exts.bat
+
+https://raw.githubusercontent.com/songjiangfeng/vscode/refs/heads/master/install_vscode_exts.bat
 ```
 
 
