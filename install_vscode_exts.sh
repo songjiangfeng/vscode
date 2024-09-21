@@ -37,7 +37,7 @@ vscode_ets=(
   sldobri.daily
   sleistner.vscode-fileutils
   vscodevim.vim
-  wix.vscode-import-cost
+
   ms-vscode-remote.remote-ssh
 )
 
