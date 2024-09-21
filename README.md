@@ -45,7 +45,7 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim">Vim</a>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost">Import Cost</a>
+
 
 <a href="https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint">markdownlint</a>
 
