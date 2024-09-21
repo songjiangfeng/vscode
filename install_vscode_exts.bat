@@ -29,6 +29,6 @@ for  %%I in (
   sldobri.daily
   sleistner.vscode-fileutils
   vscodevim.vim
-  wix.vscode-import-cost
+
   ms-vscode-remote.remote-ssh
 ) do code --install-extension %%I pause 
